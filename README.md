@@ -16,7 +16,7 @@ I'm a **MERN Stack/NextJs Developer** with a passion for creating dynamic and re
 - 💼 **Current Role**: Working at [Dotsquares](https://www.dotsquares.com/) as a **Next.js/MERN Stack Developer**.
 - 💼 **Previous Experience**: Worked at **CDAC-CINE** as a **Frontend Developer in React**.
 - 🎯 **Skills**:
-  - **Next.js** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
+  - **Next.js** <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
   - **React**
   - **Node.js**
   - **Express**
