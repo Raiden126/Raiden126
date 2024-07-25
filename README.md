@@ -27,6 +27,7 @@ I'm a **MERN Stack Developer** with a passion for creating dynamic and responsiv
 
 Feel free to reach out and connect!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden126)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Raiden126/Raiden126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
