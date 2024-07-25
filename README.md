@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Raiden126&style=flat-square&color=blue" alt=""/>
+
 # Hi there, I'm Guddu Shakar Paul! 👋
 
 I'm a **MERN Stack/NextJs Developer** with a passion for creating dynamic and responsive web applications.
