@@ -29,6 +29,10 @@ Feel free to reach out and connect!
 
 [![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden126)](https://github.com/Raiden126/github-readme-stats)
 
+---
+
+https://github-profile-trophy.vercel.app/?username=Raiden126&theme=onedark
+
 <!--
 **Raiden126/Raiden126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
