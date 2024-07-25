@@ -5,7 +5,7 @@
 # Hi there, I'm Guddu Shakar Paul! 👋
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611v59rgti14zfvvwb0mjyjqa7mzxosw5xf5w76m0av&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300" alt="Main GIF"/>
 </div>
 
 I'm a **MERN Stack/NextJs Developer** with a passion for creating dynamic and responsive web applications.
