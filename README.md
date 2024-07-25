@@ -16,15 +16,15 @@ I'm a **MERN Stack/NextJs Developer** with a passion for creating dynamic and re
 - 💼 **Current Role**: Working at [Dotsquares](https://www.dotsquares.com/) as a **Next.js/MERN Stack Developer**.
 - 💼 **Previous Experience**: Worked at **CDAC-CINE** as a **Frontend Developer in React**.
 - 🎯 **Skills**:
-  - **Next.js** <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>
-  - **React**
-  - **Node.js**
-  - **Express**
-  - **MongoDB**
-  - **Redux**
-  - **TypeScript**
-  - **JavaScript**
-  - **Jest**
+  - **Next.js** <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
+  - **React** <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  - **Node.js** <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+  - **Express** <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
+  - **MongoDB** <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  - **Redux** <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+  - **TypeScript** <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  - **JavaScript** <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  - **Vitest** <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>
 
 ## Fun Fact
 
