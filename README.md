@@ -27,7 +27,7 @@ I'm a **MERN Stack Developer** with a passion for creating dynamic and responsiv
 
 Feel free to reach out and connect!
 
-[![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden126)](https://github.com/Raiden126/github-readme-stats)
+[![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden126)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
