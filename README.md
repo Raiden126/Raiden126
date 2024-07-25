@@ -1,6 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Hi there, I'm Guddu Shakar Paul! 👋
 
-I'm a **MERN Stack Developer** with a passion for creating dynamic and responsive web applications.
+I'm a **MERN Stack/NextJs Developer** with a passion for creating dynamic and responsive web applications.
 
 ## About Me
 
