@@ -26,8 +26,6 @@ I'm a **MERN Stack/NextJs Developer** with a passion for creating dynamic and re
   - **JavaScript** <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   - **Vitest** <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>
 
-[![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden126)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Fun Fact
 
 - 🎥 I love watching anime! **"Konichiwa!"**
