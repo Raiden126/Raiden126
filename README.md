@@ -21,6 +21,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raiden126&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden126&show_icons=true&theme=radical&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Rank](https://img.shields.io/badge/Rank-A-brightgreen)
+
 ---
 
 ### 👨‍💻 About Me
