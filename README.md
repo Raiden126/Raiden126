@@ -2,39 +2,47 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi there, I'm Guddu Shakar Paul! 👋
+<h1 align="center">Hi there, I'm Guddu Shakar Paul! 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611v59rgti14zfvvwb0mjyjqa7mzxosw5xf5w76m0av&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300" alt="Main GIF"/>
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300" alt="Main GIF"/>
 </div>
-
-I'm a **MERN Stack/NextJs Developer** with a passion for creating dynamic and responsive web applications.
-
-## About Me
-
-- 🎓 **Education**: Graduated from **Assam University** with a **CGPA of 8.30**.
-- 💼 **Current Role**: Working at [Dotsquares](https://www.dotsquares.com/) as a **Next.js/MERN Stack Developer**.
-- 💼 **Previous Experience**: Worked at **CDAC-CINE** as a **Frontend Developer in React**.
-- 🎯 **Skills**:
-  - **Next.js** <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  - **React** <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  - **Node.js** <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  - **Express** <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
-  - **MongoDB** <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  - **Redux** <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-  - **TypeScript** <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  - **JavaScript** <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  - **Vitest** <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>
-
-## Fun Fact
-
-- 🎥 I love watching anime! **"Konichiwa!"**
-
-## Contact Me
-
-- 📧 **Email**: [guddupaul145@gmail.com](mailto:guddupaul145@gmail.com)
-- 📱 **Phone**: +91 7637092553
 
 ---
 
-Feel free to reach out and connect!
+<p align="center">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Education**: Assam University (CGPA: 8.30)
+- 💼 **Current**: MERN/Next.js Dev @ [Dotsquares](https://www.dotsquares.com/)
+- 🧠 **Previous**: Frontend @ CDAC-CINE
+- 🛠️ **Tech Stack**:
+  - Next.js, React, Node.js, Express
+  - MongoDB, Redux, TypeScript, JavaScript
+  - Vitest for testing
+
+---
+
+### 🎯 Fun Fact
+
+- Anime addict & proud of it. **"Konichiwa!"** 🎌
+
+---
+
+### 📫 Contact Me
+
+- 📧 [guddupaul145@gmail.com](mailto:guddupaul145@gmail.com)
+- 📱 +91 7637092553
+
+---
+
+_Thanks for dropping by!_
