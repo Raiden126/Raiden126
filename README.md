@@ -47,7 +47,6 @@
 ### 📫 Contact Me
 
 - 📧 [guddupaul145@gmail.com](mailto:guddupaul145@gmail.com)
-- 📱 +91 7637092553
 
 ---
 
