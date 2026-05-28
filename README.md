@@ -4,7 +4,7 @@
 
 # Hi there, I'm Guddu Shakar Paul 👋
 
-### Full Stack Developer | Backend Engineer | AI & Data Enthusiast
+### Full Stack Developer | Backend Engineer | ML & Data Enthusiast
 
 <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="700" height="320" alt="coding gif"/>
 
